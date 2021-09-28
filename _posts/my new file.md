@@ -7,3 +7,6 @@
     - Mike
     - John
     - Jinx 
+Some quotes: 
+ >Try your best 
+ >Don't be afraid 
